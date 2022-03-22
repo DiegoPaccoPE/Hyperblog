@@ -11,6 +11,20 @@ body {
   border: 1px solid black;
   box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.16);
 }
+#cabecera {
+  padding: 5px;
+  margin: 0;
+  background-color: blue;
+  text-align: center;
+  color: aliceblue;
+  font-weight: bold;
+  box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.16);
+}
+
+#cabecera span {
+  font-weight: lighter;
+  font-style: italic;
+}
 
 #post {
   padding: 10px;
